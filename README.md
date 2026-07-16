@@ -116,12 +116,6 @@
 
 ---
 
-## 🤖 AI / ML
-
-> Currently exploring AI & Machine Learning fundamentals — applied practically through a car price prediction project using regression techniques.
-
----
-
 ## 🚀 Featured Projects
 
 <details>
@@ -224,7 +218,7 @@ Showcases the ability to combine web development with applied machine learning �
 <tr>
 <td>Centurion University, Bhubaneswar</td>
 <td>BCA (Bachelor of Computer Applications)</td>
-<td>University</td>
+<td> Centurion University</td>
 <td>2024 – 2027 (In Progress)</td>
 </tr>
 <tr>
@@ -255,32 +249,6 @@ Showcases the ability to combine web development with applied machine learning �
 <td>Completed a 1-month internship at Code Alpha, contributing to real-world frontend projects</td>
 </tr>
 </table>
-
-> _Coming Soon — additional achievements will be added as they're earned._
-
----
-
-## 📜 Certifications
-
-> Coming Soon
-
----
-
-## 👨‍💻 Coding Profiles
-
-<div align="center">
-
-| Platform | Status |
-|---|---|
-| GitHub | [![GitHub](https://img.shields.io/badge/GitHub-Dhiraj1106-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhiraj1106) |
-| LeetCode | Coming Soon |
-| GeeksforGeeks | Coming Soon |
-| CodeChef | Coming Soon |
-| HackerRank | Coming Soon |
-| Codeforces | Coming Soon |
-
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
@@ -307,15 +275,17 @@ Showcases the ability to combine web development with applied machine learning �
 ---
 ## 📈 Contribution Activity
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> Contribution Activity
-
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED"/>
+<table>
+<tr>
+<td>
 
-<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=FFFFFF&area=true"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj1106&theme=tokyonight"/>
+</td>
+</tr>
+</table>
 
 </div>
 
