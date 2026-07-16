@@ -1,509 +1,361 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,50:7C3AED,100:3B82F6&text=Dhiraj%20Sarangi&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Enthusiast&descAlignY=58&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:1E3C72&height=220&section=header&text=Dhiraj%20Sarangi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Web%20Developer%20%7C%20BCA%20Student%20%7C%20Aspiring%20Full-Stack%20Java%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Aspiring+Java+Full+Stack+Developer;Frontend+Developer;Learning+Spring+Boot+%26+REST+APIs;Building+Real+World+Projects;Passionate+About+Software+Engineering)](https://git.io/typing-svg)
-
-<br>
-
-[![University](https://img.shields.io/badge/BCA-Centurion%20University-7C3AED?style=for-the-badge)]()
-[![Java](https://img.shields.io/badge/Java-Full%20Stack-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)]()
-[![Frontend](https://img.shields.io/badge/Frontend-Developer-2563EB?style=for-the-badge)]()
-[![Location](https://img.shields.io/badge/Bhubaneswar-Odisha-blue?style=for-the-badge&logo=googlemaps)]()
-
-<br>
-
-<a href="https://github.com/Dhiraj1106">
-<img src="https://img.shields.io/badge/GitHub-Dhiraj1106-181717?style=for-the-badge&logo=github">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Frontend+Developer+Intern+%40+Code+Alpha;Aspiring+Full-Stack+Java+Developer;Building+Responsive%2C+User-Friendly+Web+Apps;Currently+Learning+Backend+%26+REST+APIs" alt="Typing SVG" />
 </a>
 
-<a href="https://www.linkedin.com/in/dhiraj-sarangi/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Sarangi-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+<br/>
 
-<a href="mailto:dhirajsarangi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
-</a>
+![Education](https://img.shields.io/badge/BCA-Centurion%20University-6A0DAD?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Internship](https://img.shields.io/badge/Internship-Code%20Alpha-4B0082?style=for-the-badge&logo=briefcase&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Bhubaneswar%2C%20Odisha%2C%20India-483D8B?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge">
-</a>
+<br/>
 
-<br><br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E1A47?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1E3C72?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-sarangi)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajsarangi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj1106)
 
-![](https://komarev.com/ghpvc/?username=Dhiraj1106&style=for-the-badge&color=7C3AED)
+<br/>
 
-![](https://img.shields.io/github/followers/Dhiraj1106?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/Dhiraj1106?style=for-the-badge&color=7C3AED)
+![Profile Views](https://komarev.com/ghpvc/?username=Dhiraj1106&color=6A0DAD&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Dhiraj1106?style=for-the-badge&color=4B0082&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/Dhiraj1106?style=for-the-badge&color=1E3C72&label=STARS&logo=github)
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+## 🧠 About Me
 
-```java
-public class DhirajSarangi {
+<img align="right" width="35%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif" />
 
-    String role = "Aspiring Java Full Stack Developer";
+- 🎓 Motivated **BCA 2nd-Year Student** at Centurion University, Bhubaneswar, with a strong foundation in web development and programming.
+- 💻 Skilled in building **responsive and user-friendly web applications** using HTML5, CSS3, and JavaScript (ES6+).
+- 🚀 Passionate about learning **backend development** and growing into a **full-stack Java developer**.
+- 🧩 A quick learner with strong **problem-solving skills**, currently seeking internship opportunities to gain real-world experience.
+- 🎯 **Career Goal:** Become a proficient full-stack Java developer capable of building scalable, real-world applications.
+- 🔭 **Current Focus:** Deepening knowledge of backend development, REST APIs, and modern full-stack Java frameworks.
+- 🌱 **Open To:** Internship opportunities and collaborative development projects.
 
-    String education = "Bachelor of Computer Applications";
-
-    String university = "Centurion University";
-
-    String location = "Bhubaneswar, Odisha";
-
-    String internship = "Frontend Developer Intern @ CodeAlpha";
-
-    String currentFocus = "Java Backend Development";
-
-    String goal = "Build scalable applications and become a Software Engineer";
-
-}
-```
-
-I'm a **BCA student** with a strong interest in **Software Engineering** and **Java Full Stack Development**.
-
-I enjoy developing responsive web applications, exploring backend technologies, and solving real-world problems through clean and efficient code.
-
-Currently, I'm strengthening my knowledge of **Java**, **Spring Boot**, **REST APIs**, and **Data Structures & Algorithms** while building practical projects to improve my development skills.
+<br clear="right"/>
 
 ---
 
-## 🚀 Open To
+## 🛠️ Tech Stack
 
-- Java Full Stack Internship
-- Software Engineering Internship
-- Frontend Development
-- Backend Development
-- Open Source Collaboration
-- Freelance Opportunities
-
----
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css,mysql" />
+### Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js" />
 </p>
 
-| Technology | Proficiency | Description |
-|------------|------------|-------------|
-| ☕ Java | ⭐⭐⭐⭐☆ | Core Java, OOPs, Collections (Learning Advanced Java) |
-| 🌐 JavaScript | ⭐⭐⭐☆☆ | ES6+, DOM Manipulation |
-| 🐍 Python | ⭐⭐⭐☆☆ | Flask, Machine Learning Basics |
-| ⚙️ C++ | ⭐⭐⭐☆☆ | Programming Fundamentals |
-| 🗄️ SQL | ⭐⭐⭐☆☆ | Database Queries & CRUD Operations |
-
----
-
-# 🎨 Frontend Development
-
-<p align="center">
+### Frontend
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-| Technology | Experience |
-|------------|------------|
-| HTML5 | Responsive Semantic Websites |
-| CSS3 | Flexbox, Grid, Responsive UI |
-| JavaScript | Interactive User Interfaces |
-
-### Frontend Skills
-
-- Responsive Web Design
-- Cross Browser Compatibility
-- Mobile First Development
-- Interactive UI Components
-- DOM Manipulation
-
----
-
-# ⚙️ Backend & Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql" />
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-| Technology | Status |
-|------------|--------|
-| Core Java | ✅ Strong Foundation |
-| JDBC | ✅ Learning |
-| REST APIs | 🚀 Learning |
-| Spring Boot | 🚀 Learning |
-| MySQL | ✅ Basic CRUD & Queries |
-
----
-
-# 🛠️ Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+### Tools & Version Control
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github" />
 </p>
 
-### Tools I Use
+<div align="center">
 
-- Visual Studio Code
-- IntelliJ IDEA
-- Git
-- GitHub
-- Postman
-- Microsoft Office
+| Category | Technologies |
+|---|---|
+| **Languages** | Java (Core), C++, Python, JavaScript (ES6+) |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Database** | SQL |
+| **Tools** | Visual Studio Code, IntelliJ IDEA, MS Office, Git, GitHub |
+| **Concepts** | OOPs, Data Structures, MVC Architecture, REST APIs (Learning), Version Control |
 
----
-
-# 📚 Core Computer Science Concepts
-
-| Topic | Status |
-|--------|--------|
-| Object-Oriented Programming (OOPs) | ✅ |
-| Data Structures | ✅ Learning |
-| MVC Architecture | ✅ |
-| Version Control (Git) | ✅ |
-| REST APIs | 🚀 Learning |
+</div>
 
 ---
 
-# 🌱 Currently Learning
+## 💡 Core Skills
 
-```text
-☕ Advanced Java
+<table>
+<tr>
+<td valign="top" width="50%">
 
-🌱 Spring Boot
+**Programming & Software Engineering**
+- Object-Oriented Programming (OOPs)
+- Data Structures
+- MVC Architecture
+- REST APIs (Learning)
 
-🔗 REST APIs
+**Web Development**
+- Responsive Design
+- Cross-Browser Compatibility
+- UI/UX Improvement
 
-🗄️ MySQL
+</td>
+<td valign="top" width="50%">
 
-📦 Git & GitHub
+**Database & Version Control**
+- SQL
+- Git & GitHub
 
-🧩 Data Structures & Algorithms (Java)
+**Soft Skills**
+- Problem Solving
+- Teamwork & Collaboration
+- Adaptability & Quick Learning
 
-🏗️ Backend Development
-
-⚡ Software Engineering Best Practices
-```
+</td>
+</tr>
+</table>
 
 ---
 
-# 🎯 2026 Goals
+## 🤖 AI / ML
 
-- ✅ Become a Java Full Stack Developer
-- ✅ Master Spring Boot
-- ✅ Build Production-Level Projects
-- ✅ Improve DSA in Java
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Engineering Internship
-- ✅ Build a Strong GitHub Portfolio
+> Currently exploring AI & Machine Learning fundamentals — applied practically through a car price prediction project using regression techniques.
 
 ---
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 <details>
-<summary><b>🍽️ Foodie – Responsive Restaurant Website</b></summary>
+<summary><b>🍽️ Foodie — Restaurant Website</b></summary>
+<br/>
 
-### 📖 Overview
+**Overview**
+A fully responsive restaurant website focused on delivering a clean, modern user experience across devices.
 
-Foodie is a modern, responsive restaurant website designed to provide an engaging user experience. The project focuses on clean UI, responsive layouts, and interactive web components.
+**Professional Description**
+Designed and developed end-to-end with an emphasis on visual polish, usability, and interactivity, ensuring consistent behavior across browsers and screen sizes.
 
-### 📊 Project Details
-
-| Category | Details |
-|----------|---------|
+| Aspect | Details |
+|---|---|
 | **Tech Stack** | HTML5, CSS3, JavaScript |
-| **Type** | Frontend Web Development |
-| **Responsive** | ✅ Mobile, Tablet & Desktop |
-| **Performance** | Optimized for Fast Loading |
-| **UI/UX** | Modern & User Friendly |
-| **Repository** | *(https://github.com/Dhiraj1106/Restaurant-website-frontend-)* |
+| **Architecture** | Client-side, static frontend |
+| **Responsiveness** | Fully responsive, mobile-friendly |
+| **Compatibility** | Cross-browser tested |
+| **Repository** | [GitHub](https://github.com/Dhiraj1106) |
 
-### ✨ Key Features
+**Key Features**
+- Modern, responsive UI design
+- Mobile-first responsive layout
+- Interactive JavaScript-driven elements to boost engagement
 
-- Responsive Design
-- Interactive Navigation
-- Modern Restaurant Landing Page
-- Menu Section
-- Contact Section
-- Smooth User Experience
-- Cross-Browser Compatibility
+**Learning Outcomes**
+Strengthened core frontend fundamentals — responsive layout techniques, cross-browser testing, and interactive DOM manipulation.
 
-### 🎯 What I Learned
-
-- Responsive Web Design
-- CSS Flexbox & Grid
-- JavaScript DOM Manipulation
-- UI/UX Design Principles
-- Project Structuring
+**Impact / Professional Summary**
+Demonstrates practical frontend development capability and attention to user experience, forming a strong foundation for full-stack work.
 
 </details>
-
----
 
 <details>
 <summary><b>🚗 Car Price Prediction Web App</b></summary>
+<br/>
 
-### 📖 Overview
+**Overview**
+A web application that predicts used car prices using a machine learning model, paired with a custom frontend for user interaction.
 
-A Machine Learning web application that predicts the price of used cars using historical data and Linear Regression.
+**Professional Description**
+Built using Python and Flask on the backend with Scikit-learn powering a Linear Regression model, combined with a responsive HTML/CSS/JavaScript frontend for input and result display.
 
-### 📊 Project Details
+| Aspect | Details |
+|---|---|
+| **Tech Stack** | Python, Flask, Scikit-learn, HTML, CSS, JavaScript |
+| **Architecture** | Flask backend serving a trained ML model, connected to a web frontend |
+| **Model** | Linear Regression with data preprocessing and feature encoding |
+| **Repository** | [GitHub](https://github.com/Dhiraj1106) |
 
-| Category | Details |
-|----------|---------|
-| **Backend** | Python, Flask |
-| **Machine Learning** | Scikit-Learn |
-| **Algorithm** | Linear Regression |
-| **Frontend** | HTML5, CSS3, JavaScript |
-| **Database** | CSV Dataset |
-| **Repository** | *(https://github.com/Dhiraj1106/carprice_prediction)* |
+**Key Features**
+- Used car price prediction based on input parameters
+- Data preprocessing and feature encoding pipeline
+- Price comparison functionality
+- Simple data visualization of results
 
-### ✨ Key Features
+**Learning Outcomes**
+Gained hands-on experience integrating a machine learning model with a Flask backend and connecting it to a functional frontend.
 
-- Predict Used Car Prices
-- Data Preprocessing
-- Feature Encoding
-- Interactive User Interface
-- Fast Price Prediction
-- Clean Web Interface
-
-### 🎯 What I Learned
-
-- Flask Framework
-- Machine Learning Workflow
-- Data Preprocessing
-- Model Integration
-- Frontend + Backend Integration
+**Impact / Professional Summary**
+Showcases the ability to combine web development with applied machine learning — an early step toward full-stack, data-driven applications.
 
 </details>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-## Frontend Developer Intern
+<table>
+<tr>
+<th>Role</th>
+<th>Company</th>
+<th>Duration</th>
+</tr>
+<tr>
+<td><b>Frontend Developer Intern</b></td>
+<td>Code Alpha</td>
+<td>Jun – Jul 2025 (1 Month)</td>
+</tr>
+</table>
 
-### CodeAlpha
+**Responsibilities**
+- Assisted in developing responsive web pages using HTML, CSS, and JavaScript
+- Improved UI design and user experience for web projects
+- Gained hands-on experience in real-world project development
 
-📅 **June 2025 – July 2025**
-
-Worked as a Frontend Developer Intern where I contributed to responsive web development projects and improved user interface design while gaining practical industry experience.
-
-### Responsibilities
-
-- Developed responsive web pages using HTML, CSS, and JavaScript.
-- Improved UI/UX for web applications.
-- Worked on real-world frontend development tasks.
-- Enhanced website responsiveness.
-- Collaborated on project development.
-
-### Technologies Used
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode"/>
-
-</p>
+**Technologies Used:** HTML5, CSS3, JavaScript
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
-## 🎓 Bachelor of Computer Applications (BCA)
-
-**Centurion University of Technology and Management**
-
-📍 Bhubaneswar, Odisha
-
-**Duration**
-
-2024 – Present
-
----
-
-## 🎓 Higher Secondary (Science)
-
-**Kashi Sahu College**
-
-Jharkhand
-
-Completed in **2024**
-
----
-
-## 🎓 Secondary Education
-
-**Saraswati Shishu Vidya Mandir**
-
-Jharkhand
-
-Completed in **2022**
+<table>
+<tr>
+<th>Institution</th>
+<th>Qualification</th>
+<th>Board / Type</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>Centurion University, Bhubaneswar</td>
+<td>BCA (Bachelor of Computer Applications)</td>
+<td>University</td>
+<td>2024 – 2027 (In Progress)</td>
+</tr>
+<tr>
+<td>Kashi Sahu College, Jharkhand</td>
+<td>12th (Science)</td>
+<td>JAC Board</td>
+<td>2024</td>
+</tr>
+<tr>
+<td>Saraswati Shishu Vidya Mandir, Jharkhand</td>
+<td>Secondary (10th)</td>
+<td>JAC Board</td>
+<td>2022</td>
+</tr>
+</table>
 
 ---
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-| Achievement | Description |
-|------------|-------------|
-| 💼 Frontend Internship | Successfully completed Frontend Developer Internship at CodeAlpha |
-| 🌐 Responsive Web Development | Developed modern responsive web applications |
-| 🚗 Machine Learning Project | Built Car Price Prediction Web Application |
-| 🍽️ Web Development | Created fully responsive Restaurant Website |
-| 📚 Continuous Learning | Learning Java Full Stack Development & Spring Boot |
+<table>
+<tr>
+<th>Recognition</th>
+<th>Details</th>
+</tr>
+<tr>
+<td>Frontend Developer Internship</td>
+<td>Completed a 1-month internship at Code Alpha, contributing to real-world frontend projects</td>
+</tr>
+</table>
 
----
-
-# 📜 Certifications
-
-### CodeAlpha
-
-- ✅ Frontend Development Internship Certificate
-
-### Currently Pursuing
-
-- Java Full Stack Development
-- Spring Boot
-- REST APIs
-- Data Structures & Algorithms
-- Backend Development
+> _Coming Soon — additional achievements will be added as they're earned._
 
 ---
 
-# 🌟 Soft Skills
+## 📜 Certifications
 
-- Problem Solving
-- Team Collaboration
-- Adaptability
-- Quick Learning
-- Communication
-- Time Management
+> Coming Soon
 
 ---
-# 💻 Coding Profiles
+
+## 👨‍💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://github.com/Dhiraj1106">
-<img src="https://img.shields.io/badge/GitHub-Dhiraj1106-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge"/>
-</a>
+| Platform | Status |
+|---|---|
+| GitHub | [![GitHub](https://img.shields.io/badge/GitHub-Dhiraj1106-6A0DAD?style=flat-square&logo=github&logoColor=white)](https://github.com/Dhiraj1106) |
+| LeetCode | Coming Soon |
+| GeeksforGeeks | Coming Soon |
+| CodeChef | Coming Soon |
+| HackerRank | Coming Soon |
+| Codeforces | Coming Soon |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhiraj1106&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhiraj1106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=6A0DAD&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj1106&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=6A0DAD&fire=8A2BE2&currStreakLabel=8A2BE2" />
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj1106&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj1106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
 
 </div>
 
 ---
 
-# 💻 Most Used Languages
+## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj1106&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj1106&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj1106&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=6A0DAD&point=ffffff" width="100%"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night"/>
+<img src="https://raw.githubusercontent.com/Dhiraj1106/Dhiraj1106/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
----
-
-# 🐍 Contribution Snake
-
-> **After creating your GitHub profile repository, enable a GitHub Action to generate this animation automatically.**
-
-<div align="center">
-
-<img src="https://github.com/Dhiraj1106/Dhiraj1106/blob/output/github-contribution-grid-snake.svg"/>
-
-</div>
+> _Note: Requires the snake animation GitHub Action configured on the `Dhiraj1106/Dhiraj1106` repository to render._
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-Learning:
-  - Advanced Java
-  - Spring Boot
-  - REST APIs
-  - Data Structures & Algorithms (Java)
-
-Building:
-  - Student Management System (Angular)
-  - Personal Portfolio Website
-  - Java Backend Projects
-
-Exploring:
-  - Software Engineering
-  - Backend Development
-  - Open Source Contributions
-
-Open To:
-  - Software Engineering Internship
-  - Java Full Stack Internship
-  - Open Source Collaboration
+current_focus:
+  learning:
+    - Backend Development
+    - REST APIs
+    - Full-Stack Java Frameworks
+  building:
+    - Responsive Web Applications
+    - Practical ML-integrated Projects
+  exploring:
+    - Software Engineering Best Practices
+  open_to:
+    - Internship Opportunities
+    - Collaborative Development Projects
 ```
 
 ---
 
-# 📬 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:dhirajsarangi@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dhirajsarangi%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/dhiraj-sarangi/">
-<img src="https://img.shields.io/badge/LinkedIn-Dhiraj%20Sarangi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Dhiraj1106">
-<img src="https://img.shields.io/badge/GitHub-Dhiraj1106-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-dhirajsarangi%40gmail.com-6A0DAD?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirajsarangi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhiraj--sarangi-1E3C72?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhiraj-sarangi)
+[![GitHub](https://img.shields.io/badge/GitHub-Dhiraj1106-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhiraj1106)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-2E1A47?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
@@ -511,8 +363,8 @@ Open To:
 
 <div align="center">
 
-### 💜 *"Great software is built one commit at a time. Keep learning, keep building, and keep growing."*
+_"Quick learner. Steady builder. Always shipping toward full-stack."_
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:5B21B6,50:7C3AED,100:3B82F6"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:6A0DAD&height=120&section=footer" width="100%"/>
 
 </div>
