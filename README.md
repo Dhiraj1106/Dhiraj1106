@@ -305,8 +305,7 @@ Showcases the ability to combine web development with applied machine learning â
 </div>
 
 ---
-
----
+## ðŸ“ˆ Contribution Activity
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> Contribution Activity
 
@@ -319,8 +318,6 @@ Showcases the ability to combine web development with applied machine learning â
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj1106&theme=tokyonight"/>
 
 </div>
-
----
 
 ---
 
