@@ -306,25 +306,21 @@ Showcases the ability to combine web development with applied machine learning �
 
 ---
 
-## 📈 Contribution Activity
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30"/> Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8A2BE2&line=6A0DAD&point=ffffff" width="100%"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dhiraj1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhiraj1106&theme=tokyonight"/>
 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dhiraj1106/Dhiraj1106/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-> _Note: Requires the snake animation GitHub Action configured on the `Dhiraj1106/Dhiraj1106` repository to render._
 
 ---
 
