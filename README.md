@@ -33,7 +33,7 @@
 
 <img align="right" width="35%" src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Coding.gif" />
 
-- 🎓 Motivated **BCA 2nd-Year Student** at Centurion University, Bhubaneswar, with a strong foundation in web development and programming.
+- 🎓 Motivated **BCA 3rd-Year Student** at Centurion University, Bhubaneswar, with a strong foundation in web development and programming.
 - 💻 Skilled in building **responsive and user-friendly web applications** using HTML5, CSS3, and JavaScript (ES6+).
 - 🚀 Passionate about learning **backend development** and growing into a **full-stack Java developer**.
 - 🧩 A quick learner with strong **problem-solving skills**, currently seeking internship opportunities to gain real-world experience.
