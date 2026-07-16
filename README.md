@@ -254,22 +254,7 @@ Showcases the ability to combine web development with applied machine learning �
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Dhiraj1106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=6A0DAD&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Dhiraj1106&theme=tokyonight&hide_border=true&background=0D1117&stroke=8A2BE2&ring=6A0DAD&fire=8A2BE2&currStreakLabel=8A2BE2" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhiraj1106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&text_color=c9d1d9" />
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhiraj1106&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
 </div>
 
 ---
